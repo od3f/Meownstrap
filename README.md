@@ -4,7 +4,6 @@ Meownstrap is a Roblox bootstrapper, giving the ability to customize your roblox
 The script is made in Batchfile, Linux script won't be released as im a lazy batch dev who doesn't know python >:(
 
 ## Installation
-It's not out as of 11/03/25\n
 Download the latest [release](https://github.com/od3f/Meownstrap/releases).
 
 ## Contributing
